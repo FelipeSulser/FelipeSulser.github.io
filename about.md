@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Computer Science Master student at ETH Zürich
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My interests are:
+
+- Big Data
+- Data Science
+- Functional Programming
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[felipesulser@gmail.com](mailto:felipesulser@gmail.com)
