@@ -1,17 +1,17 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
-Computer Science Master student at ETH Zürich
+Machine Learning and Advanced Analytics Consultant at ipt
 
 ### More Information
 
 My interests are:
 
-- Big Data
 - Data Science
+- Big Data
 - Functional Programming
 
 ### Contact me
