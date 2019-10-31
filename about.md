@@ -13,6 +13,7 @@ My interests are:
 - Data Science
 - Big Data
 - Functional Programming
+- Cellular Automata
 
 ### Contact me
 
