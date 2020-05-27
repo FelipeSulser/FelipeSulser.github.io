@@ -144,7 +144,7 @@ The following results were all obtained with the network configuration presented
 > 
 > gotta know it bitch the start is the streets and i stay it on the way i gotta be 
 
-## Luis de Góngora
+
 
 ## Shakespeare
 
