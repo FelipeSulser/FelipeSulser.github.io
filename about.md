@@ -4,7 +4,7 @@ layout: page
 permalink: "/about/"
 ---
 
-Machine Learning and Advanced Analytics Consultant at ipt
+Data Scientist at UBS
 
 ### More Information
 
